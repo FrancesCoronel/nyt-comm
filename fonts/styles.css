@@ -1,0 +1,174 @@
+@font-face {
+    font-family: nyt-stymie;
+    src: local("â˜ºï¸Ž"),url(/fonts/nyt-stymie-500-normal.woff) format("woff");
+    font-style: normal;
+    font-weight: 500
+}
+
+@font-face {
+    font-family: nyt-stymie;
+    src: local("â˜ºï¸Ž"),url(/fonts/nyt-stymie-700-normal.woff) format("woff");
+    font-style: normal;
+    font-weight: 700
+}
+
+@font-face {
+    font-family: nyt-cheltenham;
+    src: local("â˜ºï¸Ž"),url(/fonts/nyt-cheltenham-200-normal.woff) format("woff");
+    font-style: normal;
+    font-weight: 200
+}
+
+@font-face {
+    font-family: nyt-cheltenham;
+    src: local("â˜ºï¸Ž"),url(/fonts/nyt-cheltenham-300-normal.woff) format("woff");
+    font-style: normal;
+    font-weight: 300
+}
+
+@font-face {
+    font-family: nyt-cheltenham;
+    src: local("â˜ºï¸Ž"),url(/fonts/nyt-cheltenham-300-italic.woff) format("woff");
+    font-style: italic;
+    font-weight: 300
+}
+
+@font-face {
+    font-family: nyt-cheltenham;
+    src: local("â˜ºï¸Ž"),url(/fonts/nyt-cheltenham-400-normal.woff) format("woff");
+    font-style: normal;
+    font-weight: 400
+}
+
+@font-face {
+    font-family: nyt-cheltenham;
+    src: local("â˜ºï¸Ž"),url(/fonts/nyt-cheltenham-500-normal.woff) format("woff");
+    font-style: normal;
+    font-weight: 500
+}
+
+@font-face {
+    font-family: nyt-cheltenham;
+    src: local("â˜ºï¸Ž"),url(/fonts/nyt-cheltenham-700-normal.woff) format("woff");
+    font-style: normal;
+    font-weight: 700
+}
+
+@font-face {
+    font-family: nyt-cheltenham;
+    src: local("â˜ºï¸Ž"),url(/fonts/nyt-cheltenham-700-italic.woff) format("woff");
+    font-style: italic;
+    font-weight: 700
+}
+
+@font-face {
+    font-family: nyt-cheltenham-sh;
+    src: local("â˜ºï¸Ž"),url(/fonts/nyt-cheltenham-sh-400-normal.woff) format("woff");
+    font-style: normal;
+    font-weight: 400
+}
+
+@font-face {
+    font-family: nyt-cheltenham-sh;
+    src: local("â˜ºï¸Ž"),url(/fonts/nyt-cheltenham-sh-400-italic.woff) format("woff");
+    font-style: italic;
+    font-weight: 400
+}
+
+@font-face {
+    font-family: nyt-cheltenham-sh;
+    src: local("â˜ºï¸Ž"),url(/fonts/nyt-cheltenham-sh-700-normal.woff) format("woff");
+    font-style: normal;
+    font-weight: 700
+}
+
+@font-face {
+    font-family: nyt-cheltenham-extra-cn-bd;
+    src: local("â˜ºï¸Ž"),url(/fonts/nyt-cheltenham-extra-condensed-bold-700-normal.woff) format("woff");
+    font-style: normal;
+    font-weight: 700
+}
+
+@font-face {
+    font-family: nyt-mag-serif-headline;
+    src: local("â˜ºï¸Ž"),url(/fonts/nyt-mag-serif-headline-700-normal.woff) format("woff");
+    font-style: normal;
+    font-weight: 700
+}
+
+@font-face {
+    font-family: nyt-karnak-display-130124;
+    src: local("â˜ºï¸Ž"),url(/fonts/nyt-karnak-display-130124-400-normal.woff) format("woff");
+    font-style: normal;
+    font-weight: 400
+}
+
+@font-face {
+    font-family: nyt-mag-sans;
+    src: local("â˜ºï¸Ž"),url(/fonts/nyt-mag-sans-500-normal.woff) format("woff");
+    font-style: normal;
+    font-weight: 500
+}
+
+@font-face {
+    font-family: nyt-mag-sans;
+    src: local("â˜ºï¸Ž"),url(/fonts/nyt-mag-sans-700-normal.woff) format("woff");
+    font-style: normal;
+    font-weight: 700
+}
+
+@font-face {
+    font-family: nyt-franklin;
+    src: local("â˜ºï¸Ž"),url(/fonts/nyt-franklin-300-normal.woff) format("woff");
+    font-style: normal;
+    font-weight: 300
+}
+
+@font-face {
+    font-family: nyt-franklin;
+    src: local("â˜ºï¸Ž"),url(/fonts/nyt-franklin-300-italic.woff) format("woff");
+    font-style: italic;
+    font-weight: 300
+}
+
+@font-face {
+    font-family: nyt-franklin;
+    src: local("â˜ºï¸Ž"),url(/fonts/nyt-franklin-500-normal.woff) format("woff");
+    font-style: normal;
+    font-weight: 500
+}
+
+@font-face {
+    font-family: nyt-franklin;
+    src: local("â˜ºï¸Ž"),url(/fonts/nyt-franklin-500-italic.woff) format("woff");
+    font-style: italic;
+    font-weight: 500
+}
+
+@font-face {
+    font-family: nyt-franklin;
+    src: local("â˜ºï¸Ž"),url(/fonts/nyt-franklin-700-normal.woff) format("woff");
+    font-style: normal;
+    font-weight: 700
+}
+
+@font-face {
+    font-family: nyt-franklin;
+    src: local("â˜ºï¸Ž"),url(/fonts/nyt-franklin-700-italic.woff) format("woff");
+    font-style: italic;
+    font-weight: 700
+}
+
+@font-face {
+    font-family: nyt-mag-slab;
+    src: local("â˜ºï¸Ž"),url(/fonts/nyt-mag-slab-700-normal.woff) format("woff");
+    font-style: normal;
+    font-weight: 700
+}
+
+@font-face {
+    font-family: nyt-tmag-serif;
+    src: local("â˜ºï¸Ž"),url(/fonts/nyt-tmag-serif-600-normal.woff) format("woff");
+    font-style: normal;
+    font-weight: 600
+}
