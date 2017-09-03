@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="130px" height="123px" viewBox="0 0 130 123" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="sprint-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Vertical-Logo" transform="translate(-123.000000, -126.000000)">
+            <g id="Group" transform="translate(123.000000, 113.000000)">
+                <g id="Q" transform="translate(0.000000, 2.000000)">
+                    <path d="M72.618,63.2561238 C72.618,63.2561238 78,62.2567254 78,56.7241083 L78,16.5326171 C78,16.5326171 78,11 72.618,11 L5.382,11 C5.382,11 0,11 0,16.5326171 L0,56.7241083 C0,56.7241083 0,63.2561238 5.382,63.2561238 L45.5,63.2561238 L58.5,76.3201547 L58.5,63.2561238 L72.618,63.2561238 L72.618,63.2561238 L72.618,63.2561238 Z" id="bubble" fill="#000000" transform="translate(39.000000, 43.660077) scale(-1, 1) translate(-39.000000, -43.660077) "></path>
+                    <text font-family="NYTCheltenhamWide-Regular, NYTCheltenhamWide" font-size="40" font-style="expanded" font-weight="normal" letter-spacing="0.923076808" fill="#FFFFFF">
+                        <tspan x="23.3158053" y="48">Q</tspan>
+                    </text>
+                </g>
+                <g id="A" transform="translate(52.000000, 63.000000)">
+                    <path d="M72.618,59.2561238 C72.618,59.2561238 78,58.2567254 78,52.7241083 L78,12.5326171 C78,12.5326171 78,7 72.618,7 L5.382,7 C5.382,7 0,7 0,12.5326171 L0,52.7241083 C0,52.7241083 0,59.2561238 5.382,59.2561238 L45.5,59.2561238 L58.5,72.3201547 L58.5,59.2561238 L72.618,59.2561238 L72.618,59.2561238 L72.618,59.2561238 Z" id="bubble" fill="#000000"></path>
+                    <text font-family="NYTCheltenhamWide-Regular, NYTCheltenhamWide" font-size="40" font-style="expanded" font-weight="normal" letter-spacing="0.923076808" fill="#FFFFFF">
+                        <tspan x="24.3802585" y="48">A</tspan>
+                    </text>
+                </g>
+                <text id="&amp;" font-family="NYTCheltenhamWide-Regular, NYTCheltenhamWide" font-size="50" font-style="expanded" font-weight="normal" letter-spacing="1.15384603" fill="#000000">
+                    <tspan x="87.1716121" y="60">&amp;</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

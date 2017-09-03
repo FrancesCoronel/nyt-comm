@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="352px" height="102px" viewBox="0 0 352 102" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>popup</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="sprint-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="popup" transform="translate(-92.000000, -40.000000)">
+            <g transform="translate(93.000000, 41.000000)">
+                <rect id="Rectangle" stroke="#000000" x="0" y="0" width="350" height="100" rx="4"></rect>
+                <text id="Welcome-to-Q&amp;A!" font-family="NYTFranklin-Bold, NYTFranklin" font-size="23.0463241" font-weight="bold" letter-spacing="-0.350899994" fill="#000000">
+                    <tspan x="26" y="37">Welcome to Q&amp;A! </tspan>
+                </text>
+                <text id="A-new-discussion-fea" font-family="NYTFranklin-Medium, NYTFranklin" font-size="15" font-weight="400" letter-spacing="-0.228387818">
+                    <tspan x="26" y="65" fill="#000000">A new discussion feature with </tspan>
+                    <tspan x="26" y="84" fill="#000000">something for everyone. </tspan>
+                    <tspan x="179.710587" y="84" font-family="NYTFranklin-Bold, NYTFranklin" font-weight="bold" fill="#326891">Explore </tspan>
+                    <tspan x="232.485535" y="84" font-family="NYTFranklin-Bold, NYTFranklin" font-weight="bold" letter-spacing="-0.342581719" fill="#326891">&gt;&gt;</tspan>
+                </text>
+                <g id="Group" transform="translate(262.000000, 13.000000)">
+                    <g id="Q" transform="translate(0.000000, 1.102941)">
+                        <path d="M35.1918,34.8838918 C35.1918,34.8838918 37.8,34.332753 37.8,31.2816774 L37.8,9.11725208 C37.8,9.11725208 37.8,6.06617647 35.1918,6.06617647 L2.6082,6.06617647 C2.6082,6.06617647 0,6.06617647 0,9.11725208 L0,31.2816774 C0,31.2816774 0,34.8838918 2.6082,34.8838918 L22.05,34.8838918 L28.35,42.0883206 L28.35,34.8838918 L35.1918,34.8838918 L35.1918,34.8838918 L35.1918,34.8838918 Z" id="bubble" fill="#000000" transform="translate(18.900000, 24.077249) scale(-1, 1) translate(-18.900000, -24.077249) "></path>
+                        <text font-family="NYTCheltenhamWide-Regular, NYTCheltenhamWide" font-size="22.0588235" font-style="expanded" font-weight="normal" letter-spacing="0.509049699" fill="#FFFFFF">
+                            <tspan x="11.2333846" y="26">Q</tspan>
+                        </text>
+                    </g>
+                    <g id="A" transform="translate(25.200000, 34.742647)">
+                        <path d="M35.1918,32.6780094 C35.1918,32.6780094 37.8,32.1268706 37.8,29.075795 L37.8,6.91136973 C37.8,6.91136973 37.8,3.86029412 35.1918,3.86029412 L2.6082,3.86029412 C2.6082,3.86029412 0,3.86029412 0,6.91136973 L0,29.075795 C0,29.075795 0,32.6780094 2.6082,32.6780094 L22.05,32.6780094 L28.35,39.8824383 L28.35,32.6780094 L35.1918,32.6780094 L35.1918,32.6780094 L35.1918,32.6780094 Z" id="bubble" fill="#000000"></path>
+                        <text font-family="NYTCheltenhamWide-Regular, NYTCheltenhamWide" font-size="22.0588235" font-style="expanded" font-weight="normal" letter-spacing="0.509049699" fill="#FFFFFF">
+                            <tspan x="11.5629231" y="26">A</tspan>
+                        </text>
+                    </g>
+                    <text id="&amp;" font-family="NYTCheltenhamWide-Regular, NYTCheltenhamWide" font-size="27.5735294" font-style="expanded" font-weight="normal" letter-spacing="0.636312157" fill="#000000">
+                        <tspan x="42.1227692" y="33">&amp;</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

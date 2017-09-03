@@ -1,0 +1,106 @@
+div.ep-group {
+    position: relative;
+    display: table;
+    table-layout: fixed;
+    border-collapse: collapse;
+    width: 100%;
+    height: 20px;
+    font-size: 12px;
+    line-height: 18px;
+    -webkit-transition: height 0.5s ease-out;
+    transition: height 0.5s ease-out;
+    clear: both;
+    min-height: 25px;
+}
+
+div.ep-group .ep-sectHead {
+    font-size: 100%;
+    margin: 0;
+    padding: 0 10px 0 0;
+    text-align: right;
+    font: normal 12px/14px nyt-franklin, arial, sans-serif;
+}
+
+div.ep-group .ep-statusBar {
+    top: 0;
+    text-align: center;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+div.ep-group .ep-bar {
+    font-size: 100%;
+    position: relative;
+    height: 100%;
+    overflow: hidden;
+    color: #FFF;
+    -webkit-transition: all 0.5s ease-out;
+    transition: all 0.5s ease-out;
+    display: -webkit-inline-box;
+}
+
+div.ep-group .ep-bar span {
+    padding: 0 5px;
+    height: 100%;
+    display: block;
+    font-size: 12px;
+    line-height: 44px;
+    text-align: center;
+}
+
+.viewport-medium div.ep-group .ep-bar span {
+    line-height: 20px;
+}
+
+.viewport-medium .ep-scalingBar {
+    height: 20px;
+}
+
+.ep-scalingBar {
+    -webkit-transition: height 0.5s ease-out;
+    transition: height 0.5s ease-out;
+    height: auto;
+    overflow: hidden;
+    width: 100%;
+    position: relative;
+    height: 44px;
+}
+
+.ep-firstBar,
+.ep-secondBar,
+.ep-thirdBar,
+.ep-fourthBar,
+.ep-fifthBar {
+    top: 0;
+    left: 0;
+    bottom: 0;
+    position: absolute;
+    float: none;
+    display: block;
+}
+
+.ep-firstBar {
+    width: 31%;
+}
+
+.ep-secondBar {
+    width: 23%;
+    right: 31px;
+}
+
+.ep-thirdBar {
+    width: 19%;
+    right: 54px;
+}
+
+.ep-fourthBar {
+    width: 15%;
+    right: 73px;
+}
+
+.ep-fourthBar {
+    width: 12%;
+    right: 88px;
+}
